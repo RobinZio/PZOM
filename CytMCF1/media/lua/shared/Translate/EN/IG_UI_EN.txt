@@ -1,7 +1,0 @@
-IG_UI_EN = {
-    IGUI_VehicleNameMcLarenF1 = "McLaren F1",
-    IGUI_VehiclePartLeftContainerMcLarenf1 = "Left Container",
-    IGUI_VehiclePartRightContainerMcLarenf1 = "Right Container",
-    IGUI_VehiclePartTrunkLeftMcLarenf1 = "Left Trunk Door",
-    IGUI_VehiclePartTrunkRightMcLarenf1 = "Right Trunk Door",
-}
