@@ -1,0 +1,18 @@
+UI_ES = {
+	UI_optionscreen_binding_ToDoList = "Lista de tareas",
+	UI_optionscreen_binding_ToDoListToggle = "Activar/Desactivar interfaz de usuario",
+	UI_optionscreen_binding_ToDoListNew = "Nueva tarea",
+	UI_optionscreen_binding_ToDoListCheckOff = "Eliminar elementos marcados",
+	UI_optionscreen_binding_ToDoListDeleteAll = "Eliminar TODOS los elementos",
+	UI_ToDoList_Title = "Lista de tareas",
+	UI_ToDoList_Button_AddNew = "Nueva tarea",
+	UI_ToDoList_Button_AddNew_Tooltip = "Añadir un nuevo elemento a la lista. <br><br>Tecla de acceso rápido:",
+	UI_ToDoList_Button_CheckOff = "Marcar",
+	UI_ToDoList_Button_CheckOff_Tooltip = "Eliminar todos los elementos marcados de la lista. <br><br>Tecla de acceso rápido:",
+	UI_NewToDoListItem_Title = "Nueva tarea",
+	UI_NewToDoListItem_Button_Save = "Guardar",
+	UI_ToDoListWarning_Title = "¡Advertencia!",
+	UI_ToDoListWarning_Text1 = "¿Estás seguro de que quieres borrar la lista de tareas pendientes?",
+	UI_ToDoListWarning_Text2 = "No se podrá deshacer.",
+	UI_LeftPanel_ToDoListButton_Tooltip = "Activar/Desactivar la interfaz de usuario de la lista de tareas pendientes.<br><br>Tecla de acceso rápido:"
+}

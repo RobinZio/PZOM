@@ -1,0 +1,18 @@
+UI_FR = {
+	UI_optionscreen_binding_ToDoList = "To-Do List",
+	UI_optionscreen_binding_ToDoListToggle = "Afficher la liste de tâches",
+	UI_optionscreen_binding_ToDoListNew = "Nouvelle tâche",
+	UI_optionscreen_binding_ToDoListCheckOff = "Supprimer les éléments cochés",
+	UI_optionscreen_binding_ToDoListDeleteAll = "Supprimer TOUS les éléments",
+	UI_ToDoList_Title = "Liste de tâches",
+	UI_ToDoList_Button_AddNew = "Nouvelle tâche",
+	UI_ToDoList_Button_AddNew_Tooltip = "Ajoute une nouvelle tâche à la liste. <br><br>Raccourci clavier :",
+	UI_ToDoList_Button_CheckOff = "Mettre à jour",
+	UI_ToDoList_Button_CheckOff_Tooltip = "Efface tous les éléments cochés de la liste. <br><br>Raccourci clavier :",
+	UI_NewToDoListItem_Title = "Nouvelle tâche",
+	UI_NewToDoListItem_Button_Save = "Sauvegarder",
+	UI_ToDoListWarning_Title = "Attention!",
+	UI_ToDoListWarning_Text1 = "Êtes-vous sûr de vouloir effacer votre liste de tâches ?",
+	UI_ToDoListWarning_Text2 = "Cette action est irréversible.",
+	UI_LeftPanel_ToDoListButton_Tooltip = "Affiche/Masque la liste de tâches.<br><br>Raccourci clavier :"
+}
