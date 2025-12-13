@@ -1,0 +1,110 @@
+VERSION = 1,
+
+option Advanced_trajectory.aimpoint
+{
+	type = boolean,
+	default = true,
+	page = Advanced_trajectory,
+	translation = Advanced_trajectoryaimpoint,
+}
+
+
+
+
+
+
+
+
+
+option Advanced_trajectory.fireoffset
+{
+	type = double,
+	min = 0,
+	max = 20,
+	default = 0.3,
+	page = Advanced_trajectory,
+	translation = Advanced_trajectoryfireoffset,
+}
+
+option Advanced_trajectory.maxaimnum
+{
+	type = double,
+	min = -100,
+	max = 100,
+	default = -4,
+	page = Advanced_trajectory,
+	translation = Advanced_trajectorymaxaimnum,
+}
+
+option Advanced_trajectory.moveeffect
+{
+	type = double,
+	min = 0,
+	max = 100,
+	default = 1.3,
+	page = Advanced_trajectory,
+	translation = Advanced_trajectorymoveeffect,
+}
+
+option Advanced_trajectory.turningeffect
+{
+	type = double,
+	min = 0,
+	max = 100,
+	default = 0.7,
+	page = Advanced_trajectory,
+	translation = Advanced_trajectoryturningeffect,
+}
+
+option Advanced_trajectory.reducespeed
+{
+	type = double,
+	min = 0,
+	max = 100,
+	default = 1.1,
+	page = Advanced_trajectory,
+	translation = Advanced_trajectoryreducespeed,
+}
+
+
+
+
+
+option Advanced_trajectory.shotgunnum
+{
+	type = integer,
+	min = 0,
+	max = 100,
+	default = 3,
+	page = Advanced_trajectory,
+	translation = Advanced_trajectoryshotgunnum,
+}
+
+
+
+
+
+option Advanced_trajectory.ATY_damage
+{
+	type = double,
+	min = 0,
+	max = 100,
+	default = 3,
+	page = Advanced_trajectory,
+	translation = Advanced_trajectoryATY_damage,
+}
+
+option AT_Blood
+{type = integer,page = Advanced_trajectory,translation = ATblood,default = 100, min = 0, max = 100,}
+
+option Advanced_trajectory.HighLight
+{type = boolean,page = Advanced_trajectory,translation = AT_HighLight,default = false,}
+
+
+option Advanced_trajectory.PhysicHitReaction
+{type = boolean,page = Advanced_trajectory,translation = AT_PhysicHitReaction,default = true,}
+
+
+
+option ATY_damagedisplay
+{type = boolean,page = Advanced_trajectory,translation = ATY_damagedisplay,default = false,}
