@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<fileGuidTable>
+	<files>
+		<path>media/clothing/clothingItems/TheyKnew_MysteriousHazmat.xml</path>
+		<guid>ebd9dfc7-faf3-4dad-aa56-247a1c268328</guid>
+	</files>
+	<files>
+		<path>media/clothing/clothingItems/TheyKnew_MysteriousSatchel.xml</path>
+		<guid>b09348de-73d5-4052-bd4d-68513ccd1a8f</guid>
+	</files>
+	<files>
+		<path>media/clothing/clothingItems/TheyKnew_Satchel_LHand.xml</path>
+		<guid>ee950a7e-02d2-49e7-b482-e6102f498608</guid>
+	</files>
+	<files>
+		<path>media/clothing/clothingItems/TheyKnew_Satchel_RHand.xml</path>
+		<guid>32932c6b-b58b-42bd-bcfc-62d270fb83a5</guid>
+	</files>
+</fileGuidTable>

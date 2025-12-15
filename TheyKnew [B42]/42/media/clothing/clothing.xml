@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<outfitManager>
+	<m_MaleOutfits>
+		<m_Name>TheyKnew_Hazmat</m_Name>
+		<m_Guid>01acfa1b-d246-41b4-9b3a-e91e0321bb6a</m_Guid>
+		<m_Pants>false</m_Pants>
+		<m_AllowPantsHue>false</m_AllowPantsHue>
+		<m_items>
+			<itemGUID>ebd9dfc7-faf3-4dad-aa56-247a1c268328</itemGUID>
+		</m_items>
+		<m_items>
+			<probability>0.5</probability>
+			<itemGUID>b09348de-73d5-4052-bd4d-68513ccd1a8f</itemGUID>
+		</m_items>
+	</m_MaleOutfits>
+	<m_FemaleOutfits>
+		<m_Name>TheyKnew_Hazmat</m_Name>
+		<m_Guid>01acfa1b-d246-41b4-9b3a-e91e0321bb6a</m_Guid>
+		<m_Pants>false</m_Pants>
+		<m_AllowPantsHue>false</m_AllowPantsHue>
+		<m_items>
+			<itemGUID>ebd9dfc7-faf3-4dad-aa56-247a1c268328</itemGUID>
+		</m_items>
+		<m_items>
+			<probability>0.5</probability>
+			<itemGUID>b09348de-73d5-4052-bd4d-68513ccd1a8f</itemGUID>
+		</m_items>
+	</m_FemaleOutfits>
+</outfitManager>

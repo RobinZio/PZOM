@@ -1,0 +1,29 @@
+VERSION = 1,
+
+option TheyKnew.HazmatSpawnChance
+{
+	type = double, min = 0.00, max = 20.00, default = 0.3,
+	page = TheyKnew, translation = TheyKnew_HazmatSpawnChance,
+}
+option TheyKnew.ZomboxoloneLootChance
+{
+	type = integer, min = 0, max = 100, default = 0,
+	page = TheyKnew, translation = TheyKnew_ZomboxoloneLootChance,
+}
+
+option TheyKnew.ZomboxycyclineLootChance
+{
+	type = integer, min = 0, max = 100, default = 0,
+	page = TheyKnew, translation = TheyKnew_ZomboxycyclineLootChance,
+}
+
+option TheyKnew.ZomboxivirLootChance
+{
+	type = integer, min = 0, max = 100, default = 100,
+	page = TheyKnew, translation = TheyKnew_ZomboxivirLootChance,
+}
+
+
+
+
+
