@@ -1,3 +1,0 @@
-ContextMenu_EN = {
-	ContextMenu_Break_Ampule = "Break Ampule",
-}

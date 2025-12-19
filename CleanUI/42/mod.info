@@ -1,0 +1,9 @@
+name=CleanUI
+id=CleanUI
+poster=poster.png
+icon=icon.png
+author=Rocco
+modversion=2.3
+versionMin=42.13.0
+require=\NeatUI_Framework
+description= CleanUI
